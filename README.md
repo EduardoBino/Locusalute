@@ -1,0 +1,2 @@
+# Locusalute
+Documentação api
